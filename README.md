@@ -25,12 +25,18 @@ For each philosopher:
 
 ## Data Results/Visuals
 ### Ninjas 2
-<img src="stats_analysis_Images/Ninjas%202%20Eating%20Chart.png" width="45%">
-<img src="stats_analysis_Images/Ninjas%202%20Blocked%20Chart.png" width="45%">
+<p align="center">
+  <img src="stats_analysis_Images/Ninjas%202%20Eating%20Chart.png" width="45%">
+  <img src="stats_analysis_Images/Ninjas%202%20Blocked%20Chart.png" width="45%">
+</p>
+
 
 ### Ninjas 3
-<img src="stats_analysis_Images/Ninjas%203%20Eating%20Chart.png" width="45%">
-<img src="stats_analysis_Images/Ninjas%203%20Blocked%20Chart.png" width="45%">
+<p align="center">
+  <img src="stats_analysis_Images/Ninjas%203%20Eating%20Chart.png" width="45%">
+  <img src="stats_analysis_Images/Ninjas%203%20Blocked%20Chart.png" width="45%">
+</p>
+
 
 
 ## How to Run
