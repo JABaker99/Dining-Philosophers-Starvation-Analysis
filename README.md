@@ -20,8 +20,18 @@ The goal is not only correctness (deadlock avoidance) but also fair resource acc
 
 ## Data Collection
 For each philosopher:
- - Eating Time (nanoseconds) — how long a philosopher spends eating
- - Blocked Time (nanoseconds) — time spent waiting to acquire resources
+ - Eating Time (nanoseconds): how long a philosopher spends eating
+ - Blocked Time (nanoseconds): time spent waiting to acquire resources
+
+## Data Results/Visuals
+### Ninjas 2
+<img src="stats_analysis_Images/Ninjas%202%20Eating%20Chart.png" width="45%">
+<img src="stats_analysis_Images/Ninjas%202%20Blocked%20Chart.png" width="45%">
+
+### Ninjas 3
+<img src="stats_analysis_Images/Ninjas%203%20Eating%20Chart.png" width="45%">
+<img src="stats_analysis_Images/Ninjas%203%20Blocked%20Chart.png" width="45%">
+
 
 ## How to Run
 
