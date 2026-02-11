@@ -1,0 +1,14 @@
+For IntelliJ Terminal:
+
+Compile Code:
+ javac -d . shared\*.java ninja1\*.java ninja2\*.java ninja3\*.java
+
+Run 1 version below:
+java ninja1.DiningPhilosophers
+java ninja2.DiningPhilosophers
+java ninja3.DiningPhilosophers
+
+View Output in files:
+ninja1_stats.csv
+ninja2_stats.csv
+ninja3_stats.csv
